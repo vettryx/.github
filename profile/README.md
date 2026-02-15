@@ -1,5 +1,7 @@
 # VETTRYX Tech
 
+![Logo VETTRYX](assets/logo.png)
+
 > Transformando ideias em infraestrutura digital robusta e design estratégico.
 
 A VETTRYX Tech é uma iniciativa focada no desenvolvimento de soluções de software de alto desempenho, priorizando a escalabilidade, a experiência do usuário (UX) e a identidade visual de impacto. Combinamos o rigor da Engenharia de Software com a criatividade do design moderno.
